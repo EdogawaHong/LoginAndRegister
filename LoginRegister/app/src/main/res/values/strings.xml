@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Login and Register</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="ConfirmPass">ConfirmPassword</string>
+    <string name="Login">LOGIN</string>
+    <string name="New">Create New Account</string>
+    <string name="Or">---------- or ----------</string>
+    <string name="Register">REGISTER</string>
+</resources>
